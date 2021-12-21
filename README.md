@@ -1,4 +1,3 @@
-
 # Codeclub-class-challenge1-html
 
 
@@ -33,4 +32,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Codeclub-class-challenge1-html)<br>
