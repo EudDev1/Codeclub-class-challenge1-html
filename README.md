@@ -1,7 +1,7 @@
 # Codeclub-class-challenge1-html
 
 
-<img src="./projeto-1-HTML..png" width="400" alt="print da pagina web da atividade">
+<img src="./html.png" width="400" alt="print da pagina web da atividade">
 
 > atividade para test de conhecimento do HTML.
 
